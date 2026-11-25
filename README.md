@@ -12,7 +12,7 @@ Stay vigilant.
 
 ## Warrant canary
 
-[![Canary Status](https://nidhoggr.noforn.org/api/v1/public/canary/2cb3fcc8-8974-41b4-9d43-3803f2ac7cc4/badge.svg)](https://nidhoggr.noforn.org/c/2cb3fcc8-8974-41b4-9d43-3803f2ac7cc4)
+[![Canary Status](https://nidhoggr.noforn.org/api/v1/public/canary/2cb3fcc8-8974-41b4-9d43-3803f2ac7cc4/badge.svg)](https://nidhoggr.noforn.org/public/canary/2cb3fcc8-8974-41b4-9d43-3803f2ac7cc4)
 
 ## Responsible disclosures
 
